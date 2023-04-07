@@ -33,6 +33,15 @@ export const Button = styled('button', {
                     borderColor: "$brand2",
                 }
             },
+            whatsapp:{
+                background: "#25D366",
+                borderColor: "#25D366",
+                color: "$whiteFixed",
+                "&:hover": {
+                    backgroundColor: "#075E54",
+                    borderColor: "#075E54",
+                }
+            },
             icon: {
                 borderColor: "$grey5",
                 backgroundColor: "transparent",

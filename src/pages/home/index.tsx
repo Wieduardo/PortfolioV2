@@ -35,9 +35,10 @@ export const Home = (): JSX.Element => {
               Criando experiências por meio da tecnologia{" "}
             </Text>
             <Text type="body1" color="grey6">
-              Sou estudante de programação na Kenzie Academy Brasil, participei
+              Sou programador Full Stack formado na Kenzie Academy Brasil, participei
               de diversos projetos resolvendo problemas de alto nível e
-              desenvolvendo habilidades
+              desenvolvendo habilidades que fazem de mim um profissional capacitado e competente,
+               pronto para atender as nescessidades do mercado.
             </Text>
             <HeaderButtonsArea>
               <Button as="a" href="#projetos">
